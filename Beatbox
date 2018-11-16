@@ -1,0 +1,11 @@
+package beatbox;
+
+public class Beatbox {
+
+	public static void main(String[] args) {
+		
+		new BeatboxGui().buildGui();
+
+	}
+
+}
